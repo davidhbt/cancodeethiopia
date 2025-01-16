@@ -973,7 +973,7 @@ footer {
 @media screen and (max-width:420px) {
   section{
     /* background-color: red; */
-    padding: 5%;
+    padding-inline: 5%;
   }
   #topHeader{
     padding-left: 5px;
@@ -983,7 +983,7 @@ footer {
     width: 40px;
     height: 3px;
   }
-  
+
 }
 
 
